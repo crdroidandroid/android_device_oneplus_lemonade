@@ -25,4 +25,14 @@
 
     <dimen name="keyguard_indication_margin_bottom">300px</dimen>
 
+    <!-- Alert Slider UI -->
+    <dimen name="tri_state_down_dialog_position">556px</dimen>
+    <dimen name="tri_state_down_dialog_position_l">442px</dimen>
+    <dimen name="tri_state_middle_dialog_position">425px</dimen>
+    <dimen name="tri_state_middle_dialog_position_l">442px</dimen>
+    <dimen name="tri_state_up_dialog_position">294px</dimen>
+    <dimen name="tri_state_up_dialog_position_l">442px</dimen>
+    <dimen name="tri_state_up_dialog_position_deep">24px</dimen>
+    <dimen name="tri_state_up_dialog_position_deep_land">24px</dimen>
+
 </resources>
